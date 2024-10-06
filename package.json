@@ -2,7 +2,7 @@
 	"name": "hackr-theme",
 	"displayName": "Hackr.io Theme",
 	"description": "A dark vscode theme with blue highlights for keywords and UI elements. This dark theme is ideal for late-night coding, providing a soothing, cool-toned palette that’s easy on the eyes.",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "Hackrio",
 	"repository": {
 		"type": "git",
