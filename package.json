@@ -1,0 +1,21 @@
+{
+	"name": "hackr-theme",
+	"displayName": "Hackr Theme",
+	"description": "A dark vscode theme with blue highlights for keywords and UI elements. This dark theme is ideal for late-night coding, providing a soothing, cool-toned palette that’s easy on the eyes.",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.94.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Hackr Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Hackr Theme-color-theme.json"
+			}
+		]
+	}
+}
