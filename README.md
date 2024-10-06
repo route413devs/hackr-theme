@@ -30,6 +30,12 @@ Hackr.io Theme is a custom Visual Studio Code theme featuring a sleek, blue-base
 
 You can easily tweak the theme by customizing the following settings in your settings.json:
 
+## 💻 Screenshots
+
+Here's a preview of the **Hackr.io Theme** in action:
+
+![Hackr Theme in action](./screenshots/theme-in-action.png)
+
 📦 Contributing
 
 Feel free to contribute! If you find a bug or have a feature request, please open an issue or submit a pull request on GitHub.
